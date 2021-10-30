@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Harry Potter and the Philosopher's Stone",
+    "Author": "J.K.Rowling",
+    "Category": "fantasy",
+    "Language": "english",
+    "Publication_Date": "1997-07-26",
+    "Isbn": "0-7475-3269-9",
+    "IsTaken": false,
+    "Date_Taken": null,
+    "Date_Returned": null,
+  },
+  {
+    "Name": "Harry Potter and the Chamber of Secrets",
+    "Author": "J.K.Rowling",
+    "Category": "fantasy",
+    "Language": "english",
+    "Publication_Date": "1998-07-02",
+    "Isbn": "0-7475-3849-2",
+    "IsTaken": false,
+    "Date_Taken": null,
+    "Date_Returned": null,
+  },
+  {
+    "Name": "The Lord of the Rings",
+    "Author": "J.R.R.Tolkien",
+    "Category": "Advanture",
+    "Language": "english",
+    "Publication_Date": "1954-07-29",
+    "Isbn": "978-3-16-148410-0",
+    "IsTaken": false,
+    "Date_Taken": null,
+    "Date_Returned": null,
+  }
+]

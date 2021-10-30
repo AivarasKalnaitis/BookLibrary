@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "Harry Potter and the Philosopher's Stone",
+    "Author": "J.K.Rowling",
+    "Category": "fantasy",
+    "Language": "english",
+    "Publication_Date": "1997-07-26T00:00:00",
+    "Isbn": "0-7475-3269-9",
+    "IsTaken": false,
+    "Date_Taken": null,
+    "Date_Returned": null
+  },
+  {
+    "Name": "Harry Potter and the Chamber of Secrets",
+    "Author": "J.K.Rowling",
+    "Category": "fantasy",
+    "Language": "english",
+    "Publication_Date": "1998-07-02T00:00:00",
+    "Isbn": "0-7475-3849-2",
+    "IsTaken": true,
+    "Date_Taken": "2021-10-29T00:00:00+03:00",
+    "Date_Returned": "2021-11-10T00:00:00+03:00"
+  },
+  {
+    "Name": "The Lord of the Rings",
+    "Author": "J.R.R.Tolkien",
+    "Category": "Advanture",
+    "Language": "english",
+    "Publication_Date": "1954-07-29T00:00:00",
+    "Isbn": "978-3-16-148410-0",
+    "IsTaken": false,
+    "Date_Taken": null,
+    "Date_Returned": null
+  },
+  {
+    "Name": "test",
+    "Author": "test",
+    "Category": "test",
+    "Language": "test",
+    "Publication_Date": "2021-10-23T00:00:00",
+    "Isbn": "789-789-789-4",
+    "IsTaken": false,
+    "Date_Taken": null,
+    "Date_Returned": null
+  },
+  {
+    "Name": "gs",
+    "Author": "gs",
+    "Category": "gs",
+    "Language": "gs",
+    "Publication_Date": "2020-12-20T00:00:00",
+    "Isbn": "1234567891",
+    "IsTaken": true,
+    "Date_Taken": "2021-11-09T00:00:00+03:00",
+    "Date_Returned": null
+  }
+]

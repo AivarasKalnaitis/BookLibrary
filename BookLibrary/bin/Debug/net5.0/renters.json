@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Tomas",
+    "RentedBooks": [
+      {
+        "Name": "Harry Potter and the Chamber of Secrets",
+        "Author": "J.K.Rowling",
+        "Category": "fantasy",
+        "Language": "english",
+        "Publication_Date": "1998-07-02T00:00:00",
+        "Isbn": "0-7475-3849-2",
+        "IsTaken": true,
+        "Date_Taken": "2021-10-29T00:00:00+03:00",
+        "Date_Returned": "2021-11-10T00:00:00+03:00"
+      },
+      {
+        "Name": "gs",
+        "Author": "gs",
+        "Category": "gs",
+        "Language": "gs",
+        "Publication_Date": "2020-12-20T00:00:00",
+        "Isbn": "1234567891",
+        "IsTaken": true,
+        "Date_Taken": "2021-10-30T00:00:00+03:00",
+        "Date_Returned": null
+      }
+    ]
+  }
+]
